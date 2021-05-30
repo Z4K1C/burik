@@ -3,6 +3,3 @@
   "Key": "zack:32c41e9ad9MEMEK=387d300951"
   "Dur": "08-06-2021"
 }
-{
-  "key": "kon:32c41e9ad9MEMEK=387d300951"
-}
